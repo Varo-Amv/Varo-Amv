@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Alvaro!
 Welcome to my GitHub profile!
 
-![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZxZzM3MWl5enkycWxvM3puc2Q0ZWtlMGducXVhZjFza2U4aGVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaePqH1aHE95KI0Vt7/giphy.gif)
+![Header](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg2NHlqOHBqMXp6eHNkbjB2NDNreXR0cnhmY2xqNXRzcjYxcmU1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif)
 
 - 🔭 Currently working on exciting open-source projects
 - 🌱 Learning more about cloud computing and machine learning
