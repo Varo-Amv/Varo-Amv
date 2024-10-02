@@ -11,8 +11,8 @@ Welcome to my GitHub profile!
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varo-Amv&show_icons=true&theme=dark)
 
 ### Connect with me:
-[![Instagram Badge](https://img.shields.io/badge/-JohnDoe-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/varo.mz)](https://www.linkedin.com/in/johndoe)
-[![Twitter Badge](https://img.shields.io/badge/-@johndoe-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/varo.amv)](https://twitter.com/johndoe)
+[![Instagram Badge](https://img.shields.io/badge/-VaroMZ-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/varo.mz)](https://instagram.com/varo.mz)
+[![Twitter Badge](https://img.shields.io/badge/-@johndoe-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/varo.amv)](https://twitter.com/varo.amv)
 
 ### Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
