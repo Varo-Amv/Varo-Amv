@@ -22,5 +22,5 @@ Welcome to my GitHub profile!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varo-Amv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/YoshCasaster/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Varo-Amv/count.svg" />
 </p>
