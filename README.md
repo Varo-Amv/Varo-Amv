@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 ### Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![CSS](https://img.shields.io/badge/-React-blue?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css)
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varo-Amv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
